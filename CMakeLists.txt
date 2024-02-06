@@ -39,3 +39,4 @@ add_executable(GraphSimilaritySearch driver/similarity-search.cc)
 if(OS_RELEASE_CONTENT MATCHES "CentOS")
     target_link_libraries(GraphSimilaritySearch stdc++fs)
 endif()
+# note: research log marker 1
