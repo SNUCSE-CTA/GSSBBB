@@ -213,3 +213,4 @@ double Std(std::vector<ResultLogger> &results, const std::string &which,
   double sqtotal = Total(results, which, square);
   return sqrt((sqtotal - total * total) / (results.size() * 1.0));
 }
+// note: research log marker 7
