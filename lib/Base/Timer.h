@@ -29,3 +29,4 @@ class Timer {
   std::chrono::high_resolution_clock::time_point s, e;
 };
 #endif
+// note: research log marker 10
