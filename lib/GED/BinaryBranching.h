@@ -562,3 +562,4 @@ namespace GraphLib::GraphSimilarity {
 #endif
     };
 }  // namespace GraphLib::GraphSimilarity
+// note: research log marker 16
