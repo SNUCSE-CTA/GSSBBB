@@ -62,3 +62,4 @@ struct DifferenceVector {
     return std::max(totpos, totneg) - std::max(pos, neg);
   }
 };
+// note: research log marker 20
