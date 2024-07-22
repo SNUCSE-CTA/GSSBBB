@@ -34,4 +34,3 @@ int VectorIntersectionSize(const std::vector<int> &A,
   }
   return intersection_size;
 }
-// note: research log marker 6
