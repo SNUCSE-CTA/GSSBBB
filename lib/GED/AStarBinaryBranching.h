@@ -340,4 +340,3 @@ namespace GraphLib::GraphSimilarity {
 
     };
 }
-// note: research log marker 15
