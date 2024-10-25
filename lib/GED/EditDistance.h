@@ -242,4 +242,3 @@ namespace GraphLib::GraphSimilarity {
         }
     };
 }  // namespace GraphLib::GraphSimilarity
-// note: research log marker 22
