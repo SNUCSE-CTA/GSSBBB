@@ -241,3 +241,4 @@ namespace GraphLib::GraphSimilarity {
         };
     };
 } // namespace GraphLib::GED
+// note: research log marker 69
