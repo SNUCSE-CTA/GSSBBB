@@ -10,4 +10,3 @@ cmake ..
 make
 ./GraphSimilaritySearch <query graph> <database> <tau>
 ```
-- note: research log marker 48
