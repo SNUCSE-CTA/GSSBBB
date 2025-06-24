@@ -13,4 +13,3 @@ double QError(double y_true, double y_measured) {
 double logQError(double y_true, double y_measured) {
   return log10(QError(y_true, y_measured));
 }
-// note: research log marker 54
