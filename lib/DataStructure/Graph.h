@@ -31,4 +31,3 @@ class Graph {
   inline int GetId() const { return id; }
 };
 }  // namespace GraphLib
-// note: research log marker 57
