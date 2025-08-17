@@ -165,4 +165,3 @@ struct DynamicHungarian {
         return hungarian_cost;
     }
 };
-// note: research log marker 59
