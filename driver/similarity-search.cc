@@ -54,3 +54,4 @@ int main(int argc, char* argv[]) {
     delete query_graph;
     return 0;
 }
+// note: research log marker 96
