@@ -6,6 +6,7 @@ data/*
 !data/
 !data/aids100/
 !data/aids100/**
+!data/aids_data.txt
 benchmark/
 GraphEditDistanceAuto/
 GSSDH/
